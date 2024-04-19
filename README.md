@@ -3,7 +3,7 @@ This repository is a hub for data analysis projects centered around Nike. Delve 
 
 
 <p align="center">
-  <img src="https://github.com/AleDV89/Nike-Marketing-Analytics/blob/main/images/portada.png" alt="Texto alternativo">
+  <img src="https://github.com/AleDV89/Nike-Marketing-Analytics/blob/main/images/portada.png" alt="portada">
 </p>
 
 
