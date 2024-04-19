@@ -2,9 +2,9 @@
 This repository is a hub for data analysis projects centered around Nike. Delve into market trends, consumer behavior insights, and predictive sales while also comparing with Adidas.
 
 
-<div align="center">
-  <img src="https://github.com/AleDV89/Nike-Marketing-Analytics/raw/main/images/portada.png" alt="Texto alternativo">
-</div>
+[portada](https://github.com/AleDV89/Nike-Marketing-Analytics/raw/main/images/portada.png)
+
+
 
 
 
