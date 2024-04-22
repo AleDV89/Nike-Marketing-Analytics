@@ -1,6 +1,8 @@
 # Nike Market Analysis and Predictive Sales 
 
 ![portada](https://github.com/AleDV89/Nike-Marketing-Analytics/blob/main/%22images/portada.png)
+
+
 This project focuses on analyzing market trends, consumer behavior insights, and predictive sales for Nike products. It also includes a comparison with Adidas to provide comprehensive insights into the sportswear industry. Using Python, the project involves developing a machine learning model and an interactive application to visualize the analysis results.
 
 
