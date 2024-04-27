@@ -4,7 +4,7 @@
 
 This project focuses on analyzing market trends, consumer behavior insights, and predictive sales for Nike products. It also includes a comparison with Adidas to provide comprehensive insights into the sportswear industry. Using Python, the project involves developing a machine learning model and an interactive application to visualize the analysis results.
 
-
+In addition, the project includes the creation of its own database in Microsoft Azure SQL Server linked to Power Bi to view the data in the database and finally, the creation of a Streamlit app to view the complete project.
 
 
 ### *Requirements for this project:*
@@ -32,6 +32,9 @@ Remember to deactivate the virtual environment when you're done working on the p
 ### *Notebooks of this project*
 
 [Clean and Process Data](Notebooks)
+
+
+#### To see the application click here [EDA](https://github.com/AleDV89/Nike-Marketing-Analytics/blob/main/Notebooks/EDA_NIKE.ipynb)
 
 
 
