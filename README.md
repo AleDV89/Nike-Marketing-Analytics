@@ -32,9 +32,9 @@ Remember to deactivate the virtual environment when you're done working on the p
 ### *Notebooks of this project*
 
 [Clean and Process Data](Notebooks)
+[EDA](https://github.com/AleDV89/Nike-Marketing-Analytics/blob/main/Notebooks/EDA_NIKE.ipynb)
 
-
-#### To see the application click here [EDA](https://github.com/AleDV89/Nike-Marketing-Analytics/blob/main/Notebooks/EDA_NIKE.ipynb)
+#### To see the application click here (soon)
 
 
 
