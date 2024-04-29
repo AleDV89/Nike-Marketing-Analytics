@@ -1,0 +1,37 @@
+# Librerías esenciales
+numpy==1.26.4
+pandas==2.2.2
+openpyxl
+datetime
+
+# Visualizaciones
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly-express==0.4.1
+folium==0.16.0
+wordcloud==1.9.3
+counter==1.0.0
+nltk
+
+
+
+# Modelado y computación
+scikit-learn
+scipy
+ortools
+
+# APIs y scripts
+wandb
+streamlit==1.33.0
+windows-curses
+Flask
+gunicorn
+pyyaml
+fire
+
+# Miscelánea
+yfinance
+geopandas
+chart-studio
+nltk
+kaggle
